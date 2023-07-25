@@ -1,6 +1,6 @@
 # What #
 
-This repository demonstrates these [Hasura](https://hasura.io/)
+This repository demonstrates [Hasura](https://hasura.io/)
 [federation architectures](https://hasura.io/docs/latest/data-federation/overview/)
 all-up in one stack.
 
@@ -10,7 +10,7 @@ all-up in one stack.
 
 # Why #
 
-This is a useful demonstration for [HasuraCon 2023](https://hasura.io/events/hasura-con-2023) and beyond.
+This is a useful demonstration based on [HasuraCon 2023](https://hasura.io/events/hasura-con-2023).
 
 # How #
 

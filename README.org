@@ -1,6 +1,6 @@
-#+title: Hasura Training
-#+author: David A. Ventimiglia
-#+email: davidaventimiglia@hasura.io
+#+title: Data federation with Hasura
+#+author: George Peev
+#+email: george@peev.net
 
 #+options: timestamp:nil title:t toc:nil todo:t |:t num:nil author:nil
 
@@ -14,7 +14,7 @@
 #+PANDOC_VARIABLES: background-image:./assets/slide_background.png
 
 * 
-#+CAPTION: https://github.com/dventimiglia/davidaventimiglia-talks/tree/master/cloud_native_july_2022
+#+CAPTION: https://github.com/gpgit/hasurademos
 #+ATTR_HTML: :width 40%
 #+ATTR_HTML: :height 40%
 [[file:assets/qr.png]]
